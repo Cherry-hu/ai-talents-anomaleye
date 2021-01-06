@@ -11,3 +11,24 @@
  install pandas
  
  install jupyterlab(optional)
+ 
+ For mouse movement data, once the mouse movement is recorded, do the following:
+ 1. Use 3 coordinates to adjust the data set: X, Y, waiting time
+ 2. Create a heatmap
+ 
+ Prerequisites:
+ 
+ install pandas
+ 
+ install matplotlib
+ 
+ install seaborn
+ 
+ install jupyterlab
+ 
+ The heat map can only be displayed in jupyter notebook, so please execute the command first to open jupyterlab:
+ 
+ $ jupyter-lab
+ 
+ 
+ 
