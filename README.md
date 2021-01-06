@@ -9,4 +9,4 @@
  Prerequisites:
  install pandas
  
-              install jupyterlab(optional)
+ install jupyterlab(optional)
