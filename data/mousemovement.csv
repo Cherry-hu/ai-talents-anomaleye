@@ -1,0 +1,10 @@
+" Action	",X,Y,Wait time
+ Left Click,70,72,288
+ Keypress Alt,857,216,69
+ Left Click,254,759,128
+ Left Click Release,926,200,922
+" Left Click	",10,455,315
+ Click on the Dashboard,746,76,24
+" Left Click	 Release",79,579,899
+" Left Click	 Down",268,924,456
+ Left Click Release,733,788,133
